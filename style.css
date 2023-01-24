@@ -1,0 +1,31 @@
+.ali-display{
+    display: none;
+}
+.ali-comatose{
+    color: #707070;
+}
+.ali-bg-color{
+    background: #7070707d;
+}
+.ali-bg-color-output{
+    background: #dfdfdf;
+}
+.ali-btn{
+    background-color: #B68C5A;  
+}
+.ali-banner{
+    background: linear-gradient(360deg, #111111 0%, rgba(17, 17, 17, 0)100%),url(./images/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.ali-Garamond{
+    font-family: 'EB Garamond', serif;
+}
+.ali-Poppins{
+    font-family: 'Poppins', sans-serif;
+}
+.carsl-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
